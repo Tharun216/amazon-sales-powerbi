@@ -1,20 +1,32 @@
-# Amazon Sales Power BI Report
+# Amazon Sales Dashboard - Power BI Project
 
-This Power BI report analyzes Amazon sales data to extract insights on:
+This repository contains an interactive Power BI report that analyzes Amazon sales data to provide business insights and visualize performance metrics.
 
-- Top-selling products
-- Sales by region
-- Monthly revenue trends
-- Customer behavior
+## 📊 Project Overview
+The dashboard focuses on key business indicators, helping stakeholders monitor:
 
-## File Included
-- `Amazon Sales Project.pbix` — Power BI dashboard file
+- 📦 Product-wise sales performance
+- 🌍 Region-wise distribution and trends
+- 📈 Monthly revenue and growth patterns
+- 👥 Customer purchase behavior
 
-## How to Use
-Download the `.pbix` file and open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+## 🛠 Tools & Technologies
+- Microsoft Power BI Desktop
+- Data Modeling (DAX, Relationships)
+- Data Transformation using Power Query
+
+## 📁 File Included
+- `Amazon Sales Project.pbix` – Power BI dashboard file
+
+## 🚀 Getting Started
+To explore the dashboard:
+1. Download the `.pbix` file from this repository
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+3. Interact with the visuals and filters for insights
 
 ---
 
-📊 Built using:
-- Power BI Desktop
-- Amazon Sales dataset
+## 📬 Contact
+If you'd like to connect or collaborate, feel free to reach out:
+
+- [LinkedIn Profile](https://www.linkedin.com/in/tharund/)
